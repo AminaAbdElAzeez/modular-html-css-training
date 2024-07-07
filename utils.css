@@ -1,0 +1,43 @@
+.mg-0-auto {
+    margin: 0 auto;
+}
+.mg-b-10 {
+    margin-bottom: 10px;
+}
+.pd-t-40 {
+    padding: 40px 0;
+}
+.pd-t-20 {
+    padding: 0 20px;
+}
+.bg-333 {
+    background-color: #333;
+}
+.bg-pd {
+    background-color: #fff;
+    padding: 20px;
+}
+.mx-1200 {
+    max-width: 1200px;
+}
+.color-fff {
+    color: white;
+}
+.txt-al-center {
+    text-align: center
+}
+.fz-2rem {
+    font-size: 2rem;
+}
+.box-sh {
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.txt-l {
+    text-align: left;
+}
+.fz-1-5 {
+    font-size: 1.5rem;
+}
+.w-100 {
+    width: 100%;
+}
